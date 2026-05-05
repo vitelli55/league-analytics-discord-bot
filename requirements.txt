@@ -1,0 +1,7 @@
+dotenv
+discord.py
+requests
+beautifulsoup4
+pathlib
+pandas
+numpy
