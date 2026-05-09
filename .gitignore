@@ -1,3 +1,5 @@
 .env
 src/__pycache__/
 *.bat
+data/raw_matches
+src/testpath.py

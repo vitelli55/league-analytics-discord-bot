@@ -59,8 +59,9 @@ def getMatchIDByPuuid(puuid):
 
     return matches
 
-def getPuuids():
-    challenger_league = f"https://br1.api.riotgames.com/lol/league/v4/challengerleagues/by-queue/RANKED_SOLO_5x5?api_key={RIOT_API}"
+def getPuuids(league):
+    # leagues = ['challengerleagues', 'grandmasterleagues', 'masterleagues']
+    challenger_league = f"https://br1.api.riotgames.com/lol/league/v4/{league}/by-queue/RANKED_SOLO_5x5?api_key={RIOT_API}"
 
     response = requests.get(challenger_league)
     puuids = [entry['puuid'] for entry in response.json()['entries']]
@@ -141,8 +142,14 @@ def getMatchInfo(match_id):
 my_puuid = 'jLMkZ05nkw1LwfHuEWC3OsIVm8XSPPQNEYGfejtSzZUxDARTUxgMELYhbZN1B9R47HBBEE636ZVM0Q'
 most_recent_match = getMatchIDByPuuid(my_puuid)[0]
 
+# example of my last 20 ranked solo matches: 
+# https://americas.api.riotgames.com/lol/match/v5/matches/by-puuid/{my_puuid}/ids?queue=420&type=ranked&start=0&count=20&api_key={RIOT_API}
+
 #print(getIndividualSoloRank(my_puuid))
-print(getMatchInfo(most_recent_match))
+top_3_leagues_puuid = getPuuids('challengerleagues') + getPuuids('grandmasterleagues') + getPuuids('masterleagues')
+print(len(top_3_leagues_puuid))
+
+
 
 #match_id = getMatchIDByPuuid(getPuuids()[0])[0]
 #print(getMatchResult(match_id))
