@@ -1,5 +1,4 @@
 dotenv
 discord.py
 requests
-beautifulsoup4
 pathlib

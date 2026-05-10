@@ -1,4 +1,4 @@
-# A Discord bot for League of Legends analytics.
+# A Discord bot for League of Legends Analytics.
 The current main function of this bot is to retrieve the "best build" for a champion through user query in Discord -> l!build (champion name)
 
 The idea came from the frustration of constantly alt-tabbing out of games to search for champion builds online whenever I was playing a champion I was unfamiliar with. Instead of interrupting gameplay, searching online, and waiting for occasional "alt-tab freeze", players can instantly query builds directly through the Discord overlay without minimising the game. 
@@ -13,4 +13,4 @@ For now:
 - When a user requests a build, the bot searches the processed dataset and returns the most relevant results instantly. Because the processing happens beforehand, response times remain fast during gameplay.
 
 ### Long-term Ideas
-- machine learning to predict best builds based on matchup.
+- Machine learning to predict best builds based on matchup.
