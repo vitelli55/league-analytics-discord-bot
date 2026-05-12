@@ -33,13 +33,6 @@ def getMatchIDByPuuid(puuid):
 
     return matches
 
-def getMatchInfo(match_id):
-    request_link = f"https://americas.api.riotgames.com/lol/match/v5/matches/{match_id}?api_key={RIOT_API}"
-    reponse = requests.get(request_link)
-    match_info = reponse.json()
-
-    return match_info
-
 all_matches = set() # a set automatically ensures there's no duplicates
 seen_puuids = set() # a list of seen puuids reduces api calls.
 
@@ -78,19 +71,4 @@ with open(all_matches_dir, "w") as f:
     json.dump(list(all_matches), f)
 
 #---------------
-
-for id, match in enumerate(all_matches):
-    files_dir = Path(__file__).resolve().parent.parent.parent / "data" / "raw_matches" / f"{match}.json"
-
-    if(Path.is_file(files_dir)):
-        print(f"Match {match} already stored, skipping this iteration")
-        continue
-
-    print(f"File {id} out of {len(all_matches)}. Storing information for match {match}")
-    data = getMatchInfo(match)
-
-    with open(files_dir, "w") as f:
-        json.dump(data, f)
-
-    time.sleep(1.3)
 
