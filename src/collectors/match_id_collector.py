@@ -33,18 +33,14 @@ def getMatchIDByPuuid(puuid):
 
     return matches
 
+
+# --------------------------------
+
 all_matches = set() # a set automatically ensures there's no duplicates
 seen_puuids = set() # a list of seen puuids reduces api calls.
 
 all_puuids = getTopPuuids('challengerleagues') + getTopPuuids('grandmasterleagues') + getTopPuuids('masterleagues')
 time.sleep(5)
-
-#queues = ['challengerleagues', 'grandmasterleagues', 'masterleagues']
-
-#for queue in queues:
-    
-#puuids = getTopPuuids(queue)
-#print(f"Analysing {len(puuids)} puuids for the queue: {queue}")
 
 print(f"Analysing {len(all_puuids)} puuids")
 

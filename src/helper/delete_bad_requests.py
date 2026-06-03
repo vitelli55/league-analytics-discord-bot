@@ -17,8 +17,8 @@ def deleteBadFile(match_id):
        print(f"File {match_id} removed. -> {file_to_del['status']}")
        global counter
        counter = counter + 1
-    #else:
-        #print("File is all good! No deletion")
+    else:
+        print("File is all good! No deletion")
 
 for entry in os.scandir(raw_data_folder_location):
     deleteBadFile(entry.name)

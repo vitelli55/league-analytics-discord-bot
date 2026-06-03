@@ -2,6 +2,9 @@ import requests
 import os
 from dotenv import load_dotenv
 
+import json
+from pathlib import Path
+
 load_dotenv()
 RIOT_API = os.getenv("RIOT_API")
 
@@ -52,7 +55,7 @@ rank_to_number = {
 number_to_rank = {v: k for k, v in rank_to_number.items()}
 
 def getMatchIDByPuuid(puuid):
-    request_link = f"https://americas.api.riotgames.com/lol/match/v5/matches/by-puuid/{puuid}/ids?start=0&count=20&api_key={RIOT_API}"
+    request_link = f"https://americas.api.riotgames.com/lol/match/v5/matches/by-puuid/{puuid}/ids?queue=420&type=ranked&start=0&count=20&api_key={RIOT_API}"
 
     response = requests.get(request_link)
     matches = response.json()
@@ -124,30 +127,57 @@ def getMatchInfo(match_id):
     reponse = requests.get(request_link)
     match_info = reponse.json()
 
-    team_info = match_info['info']['teams'] #list with 2 elements (2 dictionaries)
+    #team_info = match_info['info']['teams'] #list with 2 elements (2 dictionaries)
+    players = match_info['info']['participants']
 
-    info_dic = {
-        "match_duration": f"{round(match_info['info']['gameDuration']/60)} minutes" ,
-        "result": "blueWins" if team_info[0]['win'] else "redWins",
-        "averageRank": getAverageRank(match_info),
-        "queueType": queue_ids[match_info['info']['queueId']]
+    playerslist = []
+
+    for player in players:
+        info_dic = {
+            "championName" : player['championName'],
+            "kills": player['kills'],
+            "deaths": player['deaths']
+        }
+        playerslist.append(info_dic)
 
 
-    }
+    #info_dic = {
+       # "match_duration": f"{round(match_info['info']['gameDuration']/60)} minutes" ,
+       # "result": "blueWins" if team_info[0]['win'] else "redWins",
+       # "averageRank": getAverageRank(match_info),
+       # "queueType": queue_ids[match_info['info']['queueId']]
+   # }
 
-    return info_dic
+
+
+
+    return playerslist
 
 
 
 my_puuid = 'jLMkZ05nkw1LwfHuEWC3OsIVm8XSPPQNEYGfejtSzZUxDARTUxgMELYhbZN1B9R47HBBEE636ZVM0Q'
-most_recent_match = getMatchIDByPuuid(my_puuid)[0]
+most_recent_match = 'BR1_3239681500' #getMatchIDByPuuid(my_puuid)[0]
+
+match_info = getMatchInfo(most_recent_match)
+print(match_info)
+
+#players = match_info['info']['participants']
+
+#for i in players:
+ #   print(i['kills'])
+
+
+
+
 
 # example of my last 20 ranked solo matches: 
 # https://americas.api.riotgames.com/lol/match/v5/matches/by-puuid/{my_puuid}/ids?queue=420&type=ranked&start=0&count=20&api_key={RIOT_API}
 
 #print(getIndividualSoloRank(my_puuid))
-top_3_leagues_puuid = getPuuids('challengerleagues') + getPuuids('grandmasterleagues') + getPuuids('masterleagues')
-print(len(top_3_leagues_puuid))
+#top_3_leagues_puuid = getPuuids('challengerleagues') + getPuuids('grandmasterleagues') + getPuuids('masterleagues')
+#print(len(top_3_leagues_puuid))
+
+
 
 
 
@@ -156,3 +186,7 @@ print(len(top_3_leagues_puuid))
 
 #print(getPuuids()[:1])
 
+## ----------- PROCESSING TESTS
+
+with open(Path(__file__).resolve().parent.parent / "data" / "processed" / "test.json", "r") as file:
+    test_json = json.load(file)

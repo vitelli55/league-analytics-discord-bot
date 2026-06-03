@@ -3,8 +3,6 @@ import os
 import discord
 from discord.ext import commands
 
-from scrapper import get_build
-
 load_dotenv()
 BOT_TOKEN = os.getenv("DISCORD_TOKEN")
 
