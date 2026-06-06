@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from pprint import pprint
+#from pprint import pprint
 
 CHAMPION_STATS_FILE_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "processed" / "champion_item_stats.json"
 ITEMS_ID_FILE_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "item_ids" / "item_PTBR.json"
