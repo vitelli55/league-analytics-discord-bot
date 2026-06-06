@@ -90,4 +90,8 @@ async def wpa(ctx):
     msg = """WPA (Win Probability Added) é a Probabilidade de vitória adicionada\nSignifica o quanto esse item mudou a chances de vitoria\n*WPA = Winrate do item - Winrate do boneco*"""
     await ctx.send(msg)
 
+@bot.command()
+async def github(ctx):
+    await ctx.send("https://github.com/vitelli55/league-analytics-discord-bot")
+
 bot.run(BOT_TOKEN)
