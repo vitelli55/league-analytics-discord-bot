@@ -12,14 +12,14 @@ For now:
 - I then used the gathered item stats to calculate *Pick rate*, *Win Rate*, and *WPA (Win Probability Added)*
 - When a user requests a build, the bot searches the processed dataset and returns the most relevant results instantly. Because the processing happens beforehand, response times remain fast during gameplay.
 
-# Issues I encountered
-## **No Starting items** 
+## Issues I encountered
+### **No Starting items** 
 This is due to the difference between Riot’s standard match data and timeline data. The regular match endpoint only provides the final item build, while starting items are only reliably available through the match timeline endpoint, which tracks item purchases over time.
 
 The reason why I don't use timeline data (yet) is because of the difference in stored size of endpoint vs timeline:
 - Each match json (endpoint) is about 80kb. For the 72,000 matches I fetched, I ended up with a total of 5.54GB. 
 - In the other hand, a match data file containing timelines is about 800kb.
 
-### Long-term Ideas
+## Long-term Ideas
 - Machine learning to predict best builds based on matchup.
 - Include starting items (will have to get match timelines)
