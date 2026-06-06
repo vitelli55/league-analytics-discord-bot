@@ -186,7 +186,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3497
+        "matchAppearances": 3497,
+        "totalWins": 1790
     },
     "MonkeyKing": {
         "itemsBought": {
@@ -423,7 +424,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1957
+        "matchAppearances": 1957,
+        "totalWins": 952
     },
     "Samira": {
         "itemsBought": {
@@ -592,7 +594,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2829
+        "matchAppearances": 2829,
+        "totalWins": 1443
     },
     "Seraphine": {
         "itemsBought": {
@@ -853,7 +856,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 9394
+        "matchAppearances": 9394,
+        "totalWins": 4856
     },
     "Sona": {
         "itemsBought": {
@@ -1074,7 +1078,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 6830
+        "matchAppearances": 6830,
+        "totalWins": 3522
     },
     "Aatrox": {
         "itemsBought": {
@@ -1267,7 +1272,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 7246
+        "matchAppearances": 7246,
+        "totalWins": 3507
     },
     "Sylas": {
         "itemsBought": {
@@ -1532,7 +1538,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 6995
+        "matchAppearances": 6995,
+        "totalWins": 3504
     },
     "Katarina": {
         "itemsBought": {
@@ -1781,7 +1788,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 6821
+        "matchAppearances": 6821,
+        "totalWins": 3469
     },
     "Aphelios": {
         "itemsBought": {
@@ -1930,7 +1938,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3086
+        "matchAppearances": 3086,
+        "totalWins": 1498
     },
     "Leona": {
         "itemsBought": {
@@ -2083,7 +2092,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2435
+        "matchAppearances": 2435,
+        "totalWins": 1262
     },
     "Sion": {
         "itemsBought": {
@@ -2348,7 +2358,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4489
+        "matchAppearances": 4489,
+        "totalWins": 2241
     },
     "Briar": {
         "itemsBought": {
@@ -2605,7 +2616,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2644
+        "matchAppearances": 2644,
+        "totalWins": 1258
     },
     "Smolder": {
         "itemsBought": {
@@ -2874,7 +2886,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 9888
+        "matchAppearances": 9888,
+        "totalWins": 5059
     },
     "MissFortune": {
         "itemsBought": {
@@ -3127,7 +3140,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2954
+        "matchAppearances": 2954,
+        "totalWins": 1469
     },
     "Malphite": {
         "itemsBought": {
@@ -3404,7 +3418,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5794
+        "matchAppearances": 5794,
+        "totalWins": 2901
     },
     "XinZhao": {
         "itemsBought": {
@@ -3745,7 +3760,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5695
+        "matchAppearances": 5695,
+        "totalWins": 2832
     },
     "Orianna": {
         "itemsBought": {
@@ -3894,7 +3910,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2905
+        "matchAppearances": 2905,
+        "totalWins": 1377
     },
     "Karma": {
         "itemsBought": {
@@ -4139,7 +4156,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 11821
+        "matchAppearances": 11821,
+        "totalWins": 5848
     },
     "Yorick": {
         "itemsBought": {
@@ -4412,7 +4430,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2154
+        "matchAppearances": 2154,
+        "totalWins": 1061
     },
     "Morgana": {
         "itemsBought": {
@@ -4633,7 +4652,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2237
+        "matchAppearances": 2237,
+        "totalWins": 1043
     },
     "Malzahar": {
         "itemsBought": {
@@ -4842,7 +4862,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4441
+        "matchAppearances": 4441,
+        "totalWins": 2092
     },
     "Kaisa": {
         "itemsBought": {
@@ -5127,7 +5148,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 10174
+        "matchAppearances": 10174,
+        "totalWins": 4770
     },
     "Mordekaiser": {
         "itemsBought": {
@@ -5348,7 +5370,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3402
+        "matchAppearances": 3402,
+        "totalWins": 1677
     },
     "Rammus": {
         "itemsBought": {
@@ -5525,7 +5548,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2228
+        "matchAppearances": 2228,
+        "totalWins": 1120
     },
     "Pantheon": {
         "itemsBought": {
@@ -5786,7 +5810,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4805
+        "matchAppearances": 4805,
+        "totalWins": 2360
     },
     "Lucian": {
         "itemsBought": {
@@ -5991,7 +6016,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 7122
+        "matchAppearances": 7122,
+        "totalWins": 3581
     },
     "Nami": {
         "itemsBought": {
@@ -6180,7 +6206,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 16983
+        "matchAppearances": 16983,
+        "totalWins": 8577
     },
     "Fiora": {
         "itemsBought": {
@@ -6361,7 +6388,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 2814
+        "matchAppearances": 2814,
+        "totalWins": 1405
     },
     "Hwei": {
         "itemsBought": {
@@ -6542,7 +6570,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3864
+        "matchAppearances": 3864,
+        "totalWins": 1943
     },
     "Soraka": {
         "itemsBought": {
@@ -6743,7 +6772,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 6122
+        "matchAppearances": 6122,
+        "totalWins": 3149
     },
     "Urgot": {
         "itemsBought": {
@@ -6960,7 +6990,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1795
+        "matchAppearances": 1795,
+        "totalWins": 922
     },
     "Jax": {
         "itemsBought": {
@@ -7265,7 +7296,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5011
+        "matchAppearances": 5011,
+        "totalWins": 2421
     },
     "Bard": {
         "itemsBought": {
@@ -7538,7 +7570,8 @@
                 "winCount": 16
             }
         },
-        "matchAppearances": 6686
+        "matchAppearances": 6686,
+        "totalWins": 3435
     },
     "Vladimir": {
         "itemsBought": {
@@ -7679,7 +7712,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 6352
+        "matchAppearances": 6352,
+        "totalWins": 3271
     },
     "Zed": {
         "itemsBought": {
@@ -7872,7 +7906,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 9420
+        "matchAppearances": 9420,
+        "totalWins": 4729
     },
     "AurelionSol": {
         "itemsBought": {
@@ -8017,7 +8052,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3248
+        "matchAppearances": 3248,
+        "totalWins": 1674
     },
     "Ambessa": {
         "itemsBought": {
@@ -8270,7 +8306,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 8097
+        "matchAppearances": 8097,
+        "totalWins": 3841
     },
     "Diana": {
         "itemsBought": {
@@ -8479,7 +8516,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3377
+        "matchAppearances": 3377,
+        "totalWins": 1614
     },
     "Irelia": {
         "itemsBought": {
@@ -8728,7 +8766,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5457
+        "matchAppearances": 5457,
+        "totalWins": 2737
     },
     "Lux": {
         "itemsBought": {
@@ -8933,7 +8972,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 7712
+        "matchAppearances": 7712,
+        "totalWins": 3814
     },
     "Rakan": {
         "itemsBought": {
@@ -9158,7 +9198,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3563
+        "matchAppearances": 3563,
+        "totalWins": 1808
     },
     "Kennen": {
         "itemsBought": {
@@ -9367,7 +9408,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2281
+        "matchAppearances": 2281,
+        "totalWins": 1137
     },
     "Ekko": {
         "itemsBought": {
@@ -9564,7 +9606,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 7372
+        "matchAppearances": 7372,
+        "totalWins": 3657
     },
     "Jhin": {
         "itemsBought": {
@@ -9769,7 +9812,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 8142
+        "matchAppearances": 8142,
+        "totalWins": 4007
     },
     "Elise": {
         "itemsBought": {
@@ -9966,7 +10010,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2583
+        "matchAppearances": 2583,
+        "totalWins": 1254
     },
     "Jayce": {
         "itemsBought": {
@@ -10187,7 +10232,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 5764
+        "matchAppearances": 5764,
+        "totalWins": 2932
     },
     "Talon": {
         "itemsBought": {
@@ -10456,7 +10502,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 7765
+        "matchAppearances": 7765,
+        "totalWins": 4031
     },
     "Varus": {
         "itemsBought": {
@@ -10829,7 +10876,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5774
+        "matchAppearances": 5774,
+        "totalWins": 2847
     },
     "Gwen": {
         "itemsBought": {
@@ -10994,7 +11042,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2834
+        "matchAppearances": 2834,
+        "totalWins": 1441
     },
     "Twitch": {
         "itemsBought": {
@@ -11231,7 +11280,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3317
+        "matchAppearances": 3317,
+        "totalWins": 1632
     },
     "Ryze": {
         "itemsBought": {
@@ -11396,7 +11446,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3947
+        "matchAppearances": 3947,
+        "totalWins": 1857
     },
     "Pyke": {
         "itemsBought": {
@@ -11597,7 +11648,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3465
+        "matchAppearances": 3465,
+        "totalWins": 1729
     },
     "Qiyana": {
         "itemsBought": {
@@ -11810,7 +11862,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 4536
+        "matchAppearances": 4536,
+        "totalWins": 2350
     },
     "Akshan": {
         "itemsBought": {
@@ -11987,7 +12040,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 2300
+        "matchAppearances": 2300,
+        "totalWins": 1174
     },
     "Nidalee": {
         "itemsBought": {
@@ -12248,7 +12302,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2030
+        "matchAppearances": 2030,
+        "totalWins": 1012
     },
     "Azir": {
         "itemsBought": {
@@ -12381,7 +12436,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2117
+        "matchAppearances": 2117,
+        "totalWins": 1023
     },
     "Naafiri": {
         "itemsBought": {
@@ -12586,7 +12642,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 6811
+        "matchAppearances": 6811,
+        "totalWins": 3418
     },
     "Kassadin": {
         "itemsBought": {
@@ -12783,7 +12840,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4462
+        "matchAppearances": 4462,
+        "totalWins": 2298
     },
     "Darius": {
         "itemsBought": {
@@ -13024,7 +13082,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4671
+        "matchAppearances": 4671,
+        "totalWins": 2352
     },
     "TwistedFate": {
         "itemsBought": {
@@ -13317,7 +13376,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3444
+        "matchAppearances": 3444,
+        "totalWins": 1769
     },
     "Zaahen": {
         "itemsBought": {
@@ -13518,7 +13578,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3259
+        "matchAppearances": 3259,
+        "totalWins": 1651
     },
     "Janna": {
         "itemsBought": {
@@ -13683,7 +13744,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4289
+        "matchAppearances": 4289,
+        "totalWins": 2223
     },
     "LeeSin": {
         "itemsBought": {
@@ -13936,7 +13998,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 8967
+        "matchAppearances": 8967,
+        "totalWins": 4582
     },
     "Yone": {
         "itemsBought": {
@@ -14121,7 +14184,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 6074
+        "matchAppearances": 6074,
+        "totalWins": 2944
     },
     "Gnar": {
         "itemsBought": {
@@ -14334,7 +14398,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4081
+        "matchAppearances": 4081,
+        "totalWins": 1986
     },
     "Khazix": {
         "itemsBought": {
@@ -14499,7 +14564,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4138
+        "matchAppearances": 4138,
+        "totalWins": 2043
     },
     "Viktor": {
         "itemsBought": {
@@ -14640,7 +14706,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 5230
+        "matchAppearances": 5230,
+        "totalWins": 2694
     },
     "Sivir": {
         "itemsBought": {
@@ -14801,7 +14868,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4505
+        "matchAppearances": 4505,
+        "totalWins": 2229
     },
     "Gragas": {
         "itemsBought": {
@@ -15054,7 +15122,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3658
+        "matchAppearances": 3658,
+        "totalWins": 1860
     },
     "Yasuo": {
         "itemsBought": {
@@ -15351,7 +15420,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 9453
+        "matchAppearances": 9453,
+        "totalWins": 4729
     },
     "Jinx": {
         "itemsBought": {
@@ -15548,7 +15618,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 9105
+        "matchAppearances": 9105,
+        "totalWins": 4655
     },
     "Lulu": {
         "itemsBought": {
@@ -15797,7 +15868,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 9184
+        "matchAppearances": 9184,
+        "totalWins": 4531
     },
     "Vex": {
         "itemsBought": {
@@ -15914,7 +15986,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1121
+        "matchAppearances": 1121,
+        "totalWins": 576
     },
     "Ezreal": {
         "itemsBought": {
@@ -16251,7 +16324,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 15837
+        "matchAppearances": 15837,
+        "totalWins": 7589
     },
     "Leblanc": {
         "itemsBought": {
@@ -16440,7 +16514,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3260
+        "matchAppearances": 3260,
+        "totalWins": 1596
     },
     "Corki": {
         "itemsBought": {
@@ -16613,7 +16688,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3499
+        "matchAppearances": 3499,
+        "totalWins": 1761
     },
     "KogMaw": {
         "itemsBought": {
@@ -16922,7 +16998,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1905
+        "matchAppearances": 1905,
+        "totalWins": 975
     },
     "Graves": {
         "itemsBought": {
@@ -17167,7 +17244,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 6622
+        "matchAppearances": 6622,
+        "totalWins": 3362
     },
     "Taliyah": {
         "itemsBought": {
@@ -17320,7 +17398,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2900
+        "matchAppearances": 2900,
+        "totalWins": 1451
     },
     "Lissandra": {
         "itemsBought": {
@@ -17509,7 +17588,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 2952
+        "matchAppearances": 2952,
+        "totalWins": 1521
     },
     "Maokai": {
         "itemsBought": {
@@ -17722,7 +17802,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 1175
+        "matchAppearances": 1175,
+        "totalWins": 567
     },
     "KSante": {
         "itemsBought": {
@@ -17847,7 +17928,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2968
+        "matchAppearances": 2968,
+        "totalWins": 1383
     },
     "Hecarim": {
         "itemsBought": {
@@ -18060,7 +18142,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4180
+        "matchAppearances": 4180,
+        "totalWins": 2074
     },
     "Zoe": {
         "itemsBought": {
@@ -18241,7 +18324,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3613
+        "matchAppearances": 3613,
+        "totalWins": 1821
     },
     "Milio": {
         "itemsBought": {
@@ -18386,7 +18470,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 7842
+        "matchAppearances": 7842,
+        "totalWins": 3799
     },
     "Yunara": {
         "itemsBought": {
@@ -18571,7 +18656,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 6874
+        "matchAppearances": 6874,
+        "totalWins": 3333
     },
     "Thresh": {
         "itemsBought": {
@@ -18828,7 +18914,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 7672
+        "matchAppearances": 7672,
+        "totalWins": 3963
     },
     "Zeri": {
         "itemsBought": {
@@ -19041,7 +19128,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1631
+        "matchAppearances": 1631,
+        "totalWins": 787
     },
     "Veigar": {
         "itemsBought": {
@@ -19246,7 +19334,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3142
+        "matchAppearances": 3142,
+        "totalWins": 1527
     },
     "DrMundo": {
         "itemsBought": {
@@ -19391,7 +19480,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2427
+        "matchAppearances": 2427,
+        "totalWins": 1191
     },
     "Xayah": {
         "itemsBought": {
@@ -19576,7 +19666,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 2278
+        "matchAppearances": 2278,
+        "totalWins": 1141
     },
     "Shen": {
         "itemsBought": {
@@ -19817,7 +19908,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3806
+        "matchAppearances": 3806,
+        "totalWins": 1945
     },
     "Evelynn": {
         "itemsBought": {
@@ -19926,7 +20018,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2268
+        "matchAppearances": 2268,
+        "totalWins": 1124
     },
     "Viego": {
         "itemsBought": {
@@ -20403,7 +20496,8 @@
                 "winCount": 7
             }
         },
-        "matchAppearances": 5943
+        "matchAppearances": 5943,
+        "totalWins": 2815
     },
     "Syndra": {
         "itemsBought": {
@@ -20544,7 +20638,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3260
+        "matchAppearances": 3260,
+        "totalWins": 1622
     },
     "Olaf": {
         "itemsBought": {
@@ -20737,7 +20832,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1897
+        "matchAppearances": 1897,
+        "totalWins": 989
     },
     "Mel": {
         "itemsBought": {
@@ -20918,7 +21014,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4516
+        "matchAppearances": 4516,
+        "totalWins": 2030
     },
     "TahmKench": {
         "itemsBought": {
@@ -21099,7 +21196,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2216
+        "matchAppearances": 2216,
+        "totalWins": 1103
     },
     "Karthus": {
         "itemsBought": {
@@ -21248,7 +21346,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3139
+        "matchAppearances": 3139,
+        "totalWins": 1616
     },
     "Aurora": {
         "itemsBought": {
@@ -21381,7 +21480,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4562
+        "matchAppearances": 4562,
+        "totalWins": 2298
     },
     "Camille": {
         "itemsBought": {
@@ -21590,7 +21690,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 3249
+        "matchAppearances": 3249,
+        "totalWins": 1686
     },
     "Ahri": {
         "itemsBought": {
@@ -21811,7 +21912,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 9058
+        "matchAppearances": 9058,
+        "totalWins": 4563
     },
     "Quinn": {
         "itemsBought": {
@@ -22000,7 +22102,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2424
+        "matchAppearances": 2424,
+        "totalWins": 1322
     },
     "Zac": {
         "itemsBought": {
@@ -22177,7 +22280,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2616
+        "matchAppearances": 2616,
+        "totalWins": 1306
     },
     "Zyra": {
         "itemsBought": {
@@ -22338,7 +22442,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2043
+        "matchAppearances": 2043,
+        "totalWins": 1016
     },
     "FiddleSticks": {
         "itemsBought": {
@@ -22531,7 +22636,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 1876
+        "matchAppearances": 1876,
+        "totalWins": 920
     },
     "Neeko": {
         "itemsBought": {
@@ -22748,7 +22854,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2319
+        "matchAppearances": 2319,
+        "totalWins": 1167
     },
     "Rumble": {
         "itemsBought": {
@@ -22885,7 +22992,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2472
+        "matchAppearances": 2472,
+        "totalWins": 1219
     },
     "Rengar": {
         "itemsBought": {
@@ -23202,7 +23310,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5009
+        "matchAppearances": 5009,
+        "totalWins": 2553
     },
     "Nautilus": {
         "itemsBought": {
@@ -23399,7 +23508,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5681
+        "matchAppearances": 5681,
+        "totalWins": 2909
     },
     "Teemo": {
         "itemsBought": {
@@ -23600,7 +23710,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2530
+        "matchAppearances": 2530,
+        "totalWins": 1280
     },
     "Swain": {
         "itemsBought": {
@@ -23829,7 +23940,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3063
+        "matchAppearances": 3063,
+        "totalWins": 1574
     },
     "MasterYi": {
         "itemsBought": {
@@ -24078,7 +24190,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 5027
+        "matchAppearances": 5027,
+        "totalWins": 2714
     },
     "Anivia": {
         "itemsBought": {
@@ -24315,7 +24428,8 @@
                 "winCount": 3
             }
         },
-        "matchAppearances": 4819
+        "matchAppearances": 4819,
+        "totalWins": 2433
     },
     "Kayn": {
         "itemsBought": {
@@ -24516,7 +24630,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 5574
+        "matchAppearances": 5574,
+        "totalWins": 2779
     },
     "RekSai": {
         "itemsBought": {
@@ -24773,7 +24888,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2028
+        "matchAppearances": 2028,
+        "totalWins": 1025
     },
     "Galio": {
         "itemsBought": {
@@ -24982,7 +25098,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 2002
+        "matchAppearances": 2002,
+        "totalWins": 997
     },
     "Sett": {
         "itemsBought": {
@@ -25155,7 +25272,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2528
+        "matchAppearances": 2528,
+        "totalWins": 1234
     },
     "Kled": {
         "itemsBought": {
@@ -25364,7 +25482,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1393
+        "matchAppearances": 1393,
+        "totalWins": 698
     },
     "Nilah": {
         "itemsBought": {
@@ -25497,7 +25616,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 1298
+        "matchAppearances": 1298,
+        "totalWins": 684
     },
     "Singed": {
         "itemsBought": {
@@ -25734,7 +25854,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3101
+        "matchAppearances": 3101,
+        "totalWins": 1649
     },
     "Fizz": {
         "itemsBought": {
@@ -25903,7 +26024,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2594
+        "matchAppearances": 2594,
+        "totalWins": 1273
     },
     "Blitzcrank": {
         "itemsBought": {
@@ -26116,7 +26238,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1605
+        "matchAppearances": 1605,
+        "totalWins": 814
     },
     "Heimerdinger": {
         "itemsBought": {
@@ -26257,7 +26380,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1258
+        "matchAppearances": 1258,
+        "totalWins": 669
     },
     "Vayne": {
         "itemsBought": {
@@ -26522,7 +26646,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 7876
+        "matchAppearances": 7876,
+        "totalWins": 3873
     },
     "Illaoi": {
         "itemsBought": {
@@ -26735,7 +26860,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1075
+        "matchAppearances": 1075,
+        "totalWins": 510
     },
     "Rell": {
         "itemsBought": {
@@ -26904,7 +27030,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2383
+        "matchAppearances": 2383,
+        "totalWins": 1224
     },
     "Gangplank": {
         "itemsBought": {
@@ -27197,7 +27324,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 5188
+        "matchAppearances": 5188,
+        "totalWins": 2580
     },
     "Volibear": {
         "itemsBought": {
@@ -27502,7 +27630,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2399
+        "matchAppearances": 2399,
+        "totalWins": 1122
     },
     "Alistar": {
         "itemsBought": {
@@ -27691,7 +27820,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2611
+        "matchAppearances": 2611,
+        "totalWins": 1333
     },
     "Caitlyn": {
         "itemsBought": {
@@ -27900,7 +28030,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 9372
+        "matchAppearances": 9372,
+        "totalWins": 4531
     },
     "Udyr": {
         "itemsBought": {
@@ -28261,7 +28392,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3122
+        "matchAppearances": 3122,
+        "totalWins": 1601
     },
     "Poppy": {
         "itemsBought": {
@@ -28510,7 +28642,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2183
+        "matchAppearances": 2183,
+        "totalWins": 1096
     },
     "Belveth": {
         "itemsBought": {
@@ -28707,7 +28840,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1003
+        "matchAppearances": 1003,
+        "totalWins": 493
     },
     "Braum": {
         "itemsBought": {
@@ -28848,7 +28982,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3097
+        "matchAppearances": 3097,
+        "totalWins": 1532
     },
     "Senna": {
         "itemsBought": {
@@ -29189,7 +29324,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 6011
+        "matchAppearances": 6011,
+        "totalWins": 3025
     },
     "JarvanIV": {
         "itemsBought": {
@@ -29486,7 +29622,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 5720
+        "matchAppearances": 5720,
+        "totalWins": 2957
     },
     "Ashe": {
         "itemsBought": {
@@ -29831,7 +29968,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 11216
+        "matchAppearances": 11216,
+        "totalWins": 5861
     },
     "Annie": {
         "itemsBought": {
@@ -30012,7 +30150,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2836
+        "matchAppearances": 2836,
+        "totalWins": 1443
     },
     "Shaco": {
         "itemsBought": {
@@ -30341,7 +30480,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 3749
+        "matchAppearances": 3749,
+        "totalWins": 1928
     },
     "Garen": {
         "itemsBought": {
@@ -30574,7 +30714,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4311
+        "matchAppearances": 4311,
+        "totalWins": 2192
     },
     "Ziggs": {
         "itemsBought": {
@@ -30695,7 +30836,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1950
+        "matchAppearances": 1950,
+        "totalWins": 1020
     },
     "Akali": {
         "itemsBought": {
@@ -30920,7 +31062,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 7518
+        "matchAppearances": 7518,
+        "totalWins": 3731
     },
     "Tristana": {
         "itemsBought": {
@@ -31057,7 +31200,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2186
+        "matchAppearances": 2186,
+        "totalWins": 1036
     },
     "Amumu": {
         "itemsBought": {
@@ -31250,7 +31394,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1063
+        "matchAppearances": 1063,
+        "totalWins": 508
     },
     "Nunu": {
         "itemsBought": {
@@ -31475,7 +31620,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1990
+        "matchAppearances": 1990,
+        "totalWins": 1028
     },
     "Cassiopeia": {
         "itemsBought": {
@@ -31604,7 +31750,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1803
+        "matchAppearances": 1803,
+        "totalWins": 930
     },
     "Vi": {
         "itemsBought": {
@@ -31845,7 +31992,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2626
+        "matchAppearances": 2626,
+        "totalWins": 1255
     },
     "Velkoz": {
         "itemsBought": {
@@ -32010,7 +32158,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2515
+        "matchAppearances": 2515,
+        "totalWins": 1294
     },
     "Kalista": {
         "itemsBought": {
@@ -32239,7 +32388,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1074
+        "matchAppearances": 1074,
+        "totalWins": 534
     },
     "Chogath": {
         "itemsBought": {
@@ -32488,7 +32638,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 1912
+        "matchAppearances": 1912,
+        "totalWins": 957
     },
     "Renata": {
         "itemsBought": {
@@ -32669,7 +32820,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 925
+        "matchAppearances": 925,
+        "totalWins": 476
     },
     "Kayle": {
         "itemsBought": {
@@ -32934,7 +33086,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 2892
+        "matchAppearances": 2892,
+        "totalWins": 1536
     },
     "Ornn": {
         "itemsBought": {
@@ -33067,7 +33220,8 @@
                 "winCount": 2
             }
         },
-        "matchAppearances": 3507
+        "matchAppearances": 3507,
+        "totalWins": 1780
     },
     "Xerath": {
         "itemsBought": {
@@ -33232,7 +33386,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4992
+        "matchAppearances": 4992,
+        "totalWins": 2506
     },
     "Tryndamere": {
         "itemsBought": {
@@ -33441,7 +33596,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1653
+        "matchAppearances": 1653,
+        "totalWins": 855
     },
     "Renekton": {
         "itemsBought": {
@@ -33682,7 +33838,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 4189
+        "matchAppearances": 4189,
+        "totalWins": 2041
     },
     "Ivern": {
         "itemsBought": {
@@ -33887,7 +34044,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1320
+        "matchAppearances": 1320,
+        "totalWins": 675
     },
     "Skarner": {
         "itemsBought": {
@@ -34112,7 +34270,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1239
+        "matchAppearances": 1239,
+        "totalWins": 618
     },
     "Draven": {
         "itemsBought": {
@@ -34321,7 +34480,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 2945
+        "matchAppearances": 2945,
+        "totalWins": 1467
     },
     "Yuumi": {
         "itemsBought": {
@@ -34474,7 +34634,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3607
+        "matchAppearances": 3607,
+        "totalWins": 1661
     },
     "Warwick": {
         "itemsBought": {
@@ -34687,7 +34848,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1597
+        "matchAppearances": 1597,
+        "totalWins": 794
     },
     "Sejuani": {
         "itemsBought": {
@@ -34876,7 +35038,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1322
+        "matchAppearances": 1322,
+        "totalWins": 651
     },
     "Trundle": {
         "itemsBought": {
@@ -35081,7 +35244,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 681
+        "matchAppearances": 681,
+        "totalWins": 336
     },
     "Nasus": {
         "itemsBought": {
@@ -35374,7 +35538,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1832
+        "matchAppearances": 1832,
+        "totalWins": 882
     },
     "Nocturne": {
         "itemsBought": {
@@ -35599,7 +35764,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3623
+        "matchAppearances": 3623,
+        "totalWins": 1834
     },
     "Kindred": {
         "itemsBought": {
@@ -35772,7 +35938,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1604
+        "matchAppearances": 1604,
+        "totalWins": 806
     },
     "Zilean": {
         "itemsBought": {
@@ -36017,7 +36184,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3534
+        "matchAppearances": 3534,
+        "totalWins": 1851
     },
     "Brand": {
         "itemsBought": {
@@ -36210,7 +36378,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 4430
+        "matchAppearances": 4430,
+        "totalWins": 2176
     },
     "Taric": {
         "itemsBought": {
@@ -36387,7 +36556,8 @@
                 "winCount": 1
             }
         },
-        "matchAppearances": 849
+        "matchAppearances": 849,
+        "totalWins": 473
     },
     "Lillia": {
         "itemsBought": {
@@ -36528,7 +36698,8 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 1767
+        "matchAppearances": 1767,
+        "totalWins": 866
     },
     "Shyvana": {
         "itemsBought": {
@@ -36821,6 +36992,7 @@
                 "winCount": 0
             }
         },
-        "matchAppearances": 3649
+        "matchAppearances": 3649,
+        "totalWins": 1730
     }
 }

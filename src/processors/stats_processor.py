@@ -3,8 +3,10 @@ import os
 from pathlib import Path
 #import pprint
 
+CURRENT_PATCH = "patch16_9"
+
 data_path =  Path(__file__).resolve().parent.parent.parent / "data" 
-raw_matches_dir = data_path / "raw_matches"
+raw_matches_dir = data_path / "raw_matches" / CURRENT_PATCH
 stats_file_path = data_path / "processed" / "champion_item_stats.json"
 
 champion_stats = {}
@@ -36,13 +38,19 @@ def updateChampStats(match_data):
         if champion not in champion_stats:
             champion_stats[champion] = {
                 'itemsBought': {},
-                'matchAppearances': 0
+                'matchAppearances': 0,
+                'totalWins' : 0
             }
         
         if champion in champion_stats:
             
             # incrementing match appearances
             champion_stats[champion]['matchAppearances'] += 1
+
+            if data['win'] == True:
+                champion_stats[champion]['totalWins'] += 1
+
+
 
             for item in data['legendaryItems']:
                 if item not in champion_stats[champion]['itemsBought']:
