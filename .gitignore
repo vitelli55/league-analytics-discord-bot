@@ -5,3 +5,5 @@ data/raw_matches
 src/testpath.py
 data/processed/test.json
 src/api_testing.py
+src/processors/__pycache__/
+*.pyc
