@@ -83,7 +83,7 @@ async def build(ctx, champion_name: str):
 
     if len(best_items) > 2000: 
         best_items = best_items[:2000]
-        endIndex = len(best_items)-best_items[::-1].index(':')+6
+        endIndex = len(best_items)-best_items[::-1].index('.')+2
         best_items = best_items[:endIndex]
         #print(best_items[:endIndex])
         #print(len(best_items[:endIndex]))
