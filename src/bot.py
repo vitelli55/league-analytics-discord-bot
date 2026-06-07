@@ -79,6 +79,14 @@ async def build(ctx, champion_name: str):
         else:
             best_items += f"""**WPA:** {itemStats['WPA']}"""
 
+    #ensuring msg is under 2000 char
+
+    if len(best_items) > 2000: 
+        best_items = best_items[:2000]
+        endIndex = len(best_items)-best_items[::-1].index(':')+6
+        best_items = best_items[:endIndex]
+        #print(best_items[:endIndex])
+        #print(len(best_items[:endIndex]))
 
     if not item_list:
         await ctx.send(f"nao achei build para {champion_name}")
