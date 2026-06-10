@@ -23,11 +23,7 @@ def normaliseName(champion_name):
 
     return champion_name
 
-
-
 # ----- bot stufff
-
-
 
 load_dotenv()
 BOT_TOKEN = os.getenv("DISCORD_TOKEN")

@@ -1,9 +1,8 @@
 .env
 src/__pycache__/
 *.bat
-data/raw_matches
+data/raw_data
 src/testpath.py
-data/processed/test.json
 src/api_testing.py
 src/processors/__pycache__/
 *.pyc
