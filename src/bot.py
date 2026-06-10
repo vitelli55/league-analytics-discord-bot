@@ -67,31 +67,34 @@ async def build(ctx, champion_name: str):
 
     champion_name = normaliseName(champion_name)
 
-    pre_sorted_item_list = getItemsForChampion(champion_name)
-    item_list  = dict(sorted(pre_sorted_item_list.items(), key=lambda item: item[1]['PickRate'], reverse=True)) 
+    #console logging
+    print(f"Procurando build para: {champion_name}")
 
-    best_items = f"""Melhores items para {champion_name}:"""
+    try:
+        pre_sorted_item_list = getItemsForChampion(champion_name)
+    
 
-    for index, (itemName, itemStats) in enumerate(item_list.items()):
-        best_items += f"""\n{index+1}. **{itemName}** *comprado em {itemStats['purchases']} jogos* | **PickRate:** {itemStats['PickRate']}% | **WinRate:** {itemStats['WinRate']}% | """
-        if itemStats['WPA'] >= 0: 
-            best_items += f"""**WPA:** +{itemStats['WPA']}"""
-        else:
-            best_items += f"""**WPA:** {itemStats['WPA']}"""
+        item_list  = dict(sorted(pre_sorted_item_list.items(), key=lambda item: item[1]['PickRate'], reverse=True)) 
 
-    #ensuring msg is under 2000 char
+        best_items = f"""Melhores items para {champion_name}:"""
 
-    if len(best_items) > 2000: 
-        best_items = best_items[:2000]
-        endIndex = len(best_items)-best_items[::-1].index('.')+2
-        best_items = best_items[:endIndex]
-        #print(best_items[:endIndex])
-        #print(len(best_items[:endIndex]))
+        for index, (itemName, itemStats) in enumerate(item_list.items()):
+            best_items += f"""\n{index+1}. **{itemName}** *comprado em {itemStats['purchases']} jogos* | **PickRate:** {itemStats['PickRate']}% | **WinRate:** {itemStats['WinRate']}% | """
+            if itemStats['WPA'] >= 0: 
+                best_items += f"""**WPA:** +{itemStats['WPA']}"""
+            else:
+                best_items += f"""**WPA:** {itemStats['WPA']}"""
 
-    if not item_list:
-        await ctx.send(f"nao achei build para {champion_name}")
-    else:
+        #ensuring msg is under 2000 char
+        if len(best_items) > 2000: 
+            best_items = best_items[:2000]
+            endIndex = len(best_items)-best_items[::-1].index('.')+2
+            best_items = best_items[:endIndex]
+
         await ctx.send(best_items)
+
+    except KeyError:
+        await ctx.send(f"nao achei build para {champion_name}")
 
 @bot.command()
 async def wpa(ctx):
